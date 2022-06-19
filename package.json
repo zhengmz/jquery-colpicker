@@ -1,5 +1,5 @@
 {
-	"name": "colpick",
+	"name": "jquery-colpicker",
 	"title": "colpick Color Picker",
 	"description": "Simple lightweight Photoshop-like color picker, now with touch support",
 	"keywords": ["color","picker","colorpicker","choser","selector","form","jquery","input"],
